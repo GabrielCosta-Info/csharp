@@ -1,0 +1,7 @@
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex01\bin\Debug\Ex01.exe.config
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex01\bin\Debug\Ex01.exe
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex01\bin\Debug\Ex01.pdb
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex01\obj\Debug\Ex01.csprojAssemblyReference.cache
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex01\obj\Debug\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex01\obj\Debug\Ex01.exe
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex01\obj\Debug\Ex01.pdb

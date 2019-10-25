@@ -1,0 +1,6 @@
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex04\bin\Debug\Ex04.exe.config
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex04\bin\Debug\Ex04.exe
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex04\bin\Debug\Ex04.pdb
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex04\obj\Debug\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex04\obj\Debug\Ex04.exe
+C:\Users\20181011110021\Source\Repos\jorelrx\PEOO\Lista 19\Ex04\obj\Debug\Ex04.pdb
